@@ -4,3 +4,4 @@ Change 01 from branch 01
 changes from the master branch
 another change from branch 01
 changes from branch 02
+change 01
